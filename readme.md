@@ -34,7 +34,7 @@ Project has only been tested to build with Ubuntu 22.04.5 LTS
 Note that Qemu should open if you have it installed.
 
 # Note
-I know that the stuff that I have planned is a lot for what I already did. As of writing this, I haven't even created the folder for the OS yet. I only built the compilers, so this is definitly not going to be quick at all.
+empty
 <br>
 The site that I am using to research this is the ![OSDev Wiki](https://wiki.osdev.org/).
 <br>
