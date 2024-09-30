@@ -26,7 +26,7 @@ The latest versions of Haven should be inside of the releases section.
 
 # Build
 Project has only been tested to build with Ubuntu 22.04.5 LTS
-## Linux (Debian & Ubuntu)
+### Linux (Debian & Ubuntu)
 1. Follow the OSDev Wiki ![tutorial](https://wiki.osdev.org/GCC_Cross-Compiler#Preparing_for_the_build) to build the required cross-compiler.
 2. Download this repository and extract it.
 3. Run './cc.sh'
