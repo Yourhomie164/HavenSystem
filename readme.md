@@ -5,7 +5,7 @@ Work in Progress x86 Based Operating System
 <br>
 Operating System that is designed to feel like home - Haven
 
-#READ ME
+# READ ME
 Hello, so I haven't worked on this in a while. I'm probally going to refactor the entire code to be worse (since I have no idea what I'm doing).
 I'm not going to work on this project for some more time, but I WILL continue it at somepoint. Sometime before the end of the year.
 Cheers!
