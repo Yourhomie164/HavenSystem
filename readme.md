@@ -11,26 +11,21 @@ I'm not going to work on this project for some more time, but I WILL continue it
 Cheers!
 
 # What's Planned?
-- GUI
 - Window Management
 - Network Support
 - Haven API for C (so its not just a kernel)
-- Customization
+- Heavy Customization
 
 # Downloads
-The latest versions of Haven should be inside of the releases section.
+The latest versions of Haven should be inside of the releases section. (As of now, no releases are published)
 
 # Build
-Project has only been tested to build with Ubuntu 22.04.5 LTS
-### Linux (Debian & Ubuntu)
-1. Follow the OSDev Wiki ![tutorial](https://wiki.osdev.org/GCC_Cross-Compiler#Preparing_for_the_build) to build the required cross-compiler.
-2. Download this repository and extract it.
-3. Run './cc.sh'
+### Linux (Debian Based)
+1. SOURCE DOESN'T EXIST, IT IS BEING REFACTORED.
 <br>
 Note that Qemu should open if you have it installed.
 
 # Note
-empty
 <br>
 The site that I am using to research this is the ![OSDev Wiki](https://wiki.osdev.org/).
 <br>
